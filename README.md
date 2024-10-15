@@ -1,2 +1,2 @@
-# git-practice
-Lab7 
+# Git Practice Repository
+This repository is for practicing Git and GitHub.
